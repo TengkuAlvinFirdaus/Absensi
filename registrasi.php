@@ -108,8 +108,6 @@ if ( isset($_POST["register"]) ) {
 	          	<div class="input-group-text"><i class="fas fa-id-card"></i></div>
 	          </div>
 	          <div class="blok">
-	          	<input type="radio" name="level" id="level" value="admin">
-	          	<label for="level" class="label">admin</label>
 	          	<input type="radio" name="level" id="level" value="pegawai">
 	          	<label for="level">pegawai</label>
 	          </div>
